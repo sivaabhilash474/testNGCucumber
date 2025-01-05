@@ -31,3 +31,37 @@ build/
 
 ### VS Code ###
 .vscode/
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+test-output/bullet_point.png
+test-output/collapseall.gif
+test-output/Default suite/Default test.html
+test-output/Default suite/Default test.xml
+test-output/emailable-report.html
+test-output/failed.png
+test-output/index.html
+test-output/jquery.min.js
+test-output/junitreports/TEST-com.mycompany.stepdefinitions.Login.xml
+test-output/junitreports/TEST-com.mycompany.testing.TestRunner.xml
+test-output/navigator-bullet.png
+test-output/old/Default suite/classes.html
+test-output/old/Default suite/Default test.properties
+test-output/old/Default suite/groups.html
+test-output/old/Default suite/index.html
+test-output/old/Default suite/main.html
+test-output/old/Default suite/methods-alphabetical.html
+test-output/old/Default suite/methods-not-run.html
+test-output/old/Default suite/methods.html
+test-output/old/Default suite/reporter-output.html
+test-output/old/Default suite/testng.xml.html
+test-output/old/Default suite/toc.html
+test-output/old/index.html
+test-output/passed.png
+test-output/skipped.png
+test-output/testng-reports.css
+test-output/testng-reports.js
+test-output/testng-reports1.css
+test-output/testng-reports2.js
+test-output/testng-results.xml
+test-output/testng.css
