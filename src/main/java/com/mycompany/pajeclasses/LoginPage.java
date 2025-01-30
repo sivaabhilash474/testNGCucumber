@@ -16,19 +16,20 @@ public class LoginPage extends BasePage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(id="user-name")
+	@FindBy(id="email")
 	private WebElement usernameField;
 	
 	@FindBy(id="password")
 	private WebElement passwordField;
 	
-	@FindBy(id="login-button")
+	@FindBy(id="submit")
 	private WebElement loginButton;
 	
 	
 	public void doLogin(String username, String password) {
 		type(usernameField, username);
 		type(passwordField, password);
+		click(loginButton);
 		
 	}
 
