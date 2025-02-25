@@ -1,8 +1,8 @@
-package com.mycompany.service;
+package com.mycompany.applicationone.service;
 
 import java.util.List;
 
-import com.mycompany.entity.Department;
+import com.mycompany.applicationone.entity.Department;
 
 public interface DepartmentService {
 	
