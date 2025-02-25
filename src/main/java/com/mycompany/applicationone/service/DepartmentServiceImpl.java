@@ -1,12 +1,12 @@
-package com.mycompany.service;
+package com.mycompany.applicationone.service;
 
 import java.util.List;
 import java.util.Objects;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mycompany.entity.Department;
-import com.mycompany.repository.DepartmentRepository;
+import com.mycompany.applicationone.entity.Department;
+import com.mycompany.applicationone.repository.DepartmentRepository;
 
 @Service
 
