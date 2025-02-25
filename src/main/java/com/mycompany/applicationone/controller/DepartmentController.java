@@ -1,11 +1,13 @@
-package com.mycompany.controller;
+package com.mycompany.applicationone.controller;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.mycompany.entity.Department;
-import com.mycompany.service.DepartmentService;
+
+import com.mycompany.applicationone.entity.Department;
+import com.mycompany.applicationone.service.DepartmentService;
+
 import jakarta.validation.Valid;
 
 @RestController
