@@ -1,8 +1,9 @@
-package com.mycompany.repository;
+package com.mycompany.applicationone.repository;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
-import com.mycompany.entity.Department;
+
+import com.mycompany.applicationone.entity.Department;
 
 @Repository
 
